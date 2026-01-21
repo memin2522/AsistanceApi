@@ -1,5 +1,7 @@
 {
-    "Groups" : 
+    "TeacherEmail" : "serrey040500@gmail.com",
+    "DirectorEmail" : "serrey040500@gmail.com",
+    "Courses" : 
     [
         {
             "name" : "Circuitos Digitales",
