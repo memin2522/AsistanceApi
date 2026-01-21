@@ -4,14 +4,8 @@
     "Courses" : 
     [
         {
-            "name" : "Circuitos Digitales",
-            "numSessions" : 16,
-            "sessionsLost" : 4
-        },
-        {
             "name" : "Prueba",
-            "numSessions" : 10,
-            "sessionsLost" : 2 
+            "sessionsLost" : 5 
         }
     ]
 }
