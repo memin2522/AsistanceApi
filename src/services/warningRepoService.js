@@ -5,7 +5,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const WARNINGS_FILE = path.join(__dirname, "../data/warnings.json");
+const WARNINGS_FILE = path.join(__dirname, "../../data/warnings.json");
 
 export function loadWarnings() {
     try {

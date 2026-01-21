@@ -1,0 +1,9 @@
+services:
+  attendance:
+    build: .
+    container_name: attendance_job
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    restart: "no" 
