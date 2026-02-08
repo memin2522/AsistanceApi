@@ -1,11 +1,23 @@
 {
-    "TeacherEmail" : "serrey040500@gmail.com",
-    "DirectorEmail" : "serrey040500@gmail.com",
+    "TeacherEmail" : "sereyes@usbbog.edu.co",
+    "DirectorEmail" : "ing.dprmultimedia@usbbog.edu.co",
     "Courses" : 
     [
         {
-            "name" : "Prueba",
-            "sessionsLost" : 5 
+            "name" : "Circuitos Digitales (0346)",
+            "sessionsLost" : 4 
+        },
+        {
+            "name" : "Bases de datos (0359-0360)",
+            "sessionsLost" : 7 
+        },
+        {
+            "name" : "Bases de datos (0376)",
+            "sessionsLost" : 7 
+        },
+        {
+            "name" : "Realidad Mixta (0374)",
+            "sessionsLost" : 7 
         }
     ]
 }

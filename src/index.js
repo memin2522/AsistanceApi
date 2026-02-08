@@ -12,7 +12,6 @@ async function main() {
 
     let resultPages = await getSheetPages(process.env.SPREADSHEET_ID);
     for (const page of resultPages) {
-
         const course = courses.find(c => c.name === page);
         if (!course) {
             return;
